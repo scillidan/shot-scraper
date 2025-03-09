@@ -1,3 +1,9 @@
 # - url: https://www.example.com/
 #   output: shot.png
 #   height: 800
+- url: https://mirror-hk.koddos.net/CTAN/macros/latex/contrib/chronos/chronos-doc.pdf
+  ourput: chronos-doc-pdf.jpg
+  weight: 800
+  height: 800
+  quality: 80
+  wait: 2000
